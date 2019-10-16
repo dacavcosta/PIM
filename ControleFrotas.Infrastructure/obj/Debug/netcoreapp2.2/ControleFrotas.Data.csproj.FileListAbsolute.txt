@@ -1,0 +1,9 @@
+C:\Users\dcava\source\ControleFrotas.Data\bin\Debug\netcoreapp2.2\ControleFrotas.Data.deps.json
+C:\Users\dcava\source\ControleFrotas.Data\bin\Debug\netcoreapp2.2\ControleFrotas.Data.dll
+C:\Users\dcava\source\ControleFrotas.Data\obj\Debug\netcoreapp2.2\ControleFrotas.Data.csprojAssemblyReference.cache
+C:\Users\dcava\source\ControleFrotas.Data\obj\Debug\netcoreapp2.2\ControleFrotas.Data.csproj.CoreCompileInputs.cache
+C:\Users\dcava\source\ControleFrotas.Data\obj\Debug\netcoreapp2.2\ControleFrotas.Data.AssemblyInfoInputs.cache
+C:\Users\dcava\source\ControleFrotas.Data\obj\Debug\netcoreapp2.2\ControleFrotas.Data.AssemblyInfo.cs
+C:\Users\dcava\source\ControleFrotas.Data\bin\Debug\netcoreapp2.2\ControleFrotas.Data.pdb
+C:\Users\dcava\source\ControleFrotas.Data\obj\Debug\netcoreapp2.2\ControleFrotas.Data.dll
+C:\Users\dcava\source\ControleFrotas.Data\obj\Debug\netcoreapp2.2\ControleFrotas.Data.pdb
